@@ -1,7 +1,7 @@
 # learning-python
 # 🐍 Aprendizado em Python
 
-Este repositório reúne minhas anotações, códigos e práticas enquanto estudo e aprofundo meus conhecimentos em Python. O objetivo é consolidar o aprendizado de forma clara, prática e acessível para revisões futuras ou para ajudar outras pessoas que também estejam aprendendo a linguagem.
+Este repositório (com até agora 1067 linhas de código) reúne minhas anotações, códigos e práticas enquanto estudo e aprofundo meus conhecimentos em Python. O objetivo é consolidar o aprendizado de forma clara, prática e acessível para revisões futuras ou para ajudar outras pessoas que também estejam aprendendo a linguagem.
 
 ## 📘 Tópicos abordados
 
